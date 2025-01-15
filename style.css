@@ -1,1 +1,63 @@
-
+nav {
+    border-top: 5px solid red;
+    border-bottom: 5px solid red;
+    padding: 25px 100px 25px 95px;
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+  
+}
+.nav-link {
+    font-size: 24px;
+    text-decoration: none;
+    display: block;
+    color: white;
+}
+header{
+    background-color: azure;
+}
+.kofti{
+    background-color: white;
+    padding: 15px 45px 30px 45px;
+    width: 400px;
+    margin: 20px;
+    position: relative;
+}
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+.a-art {
+    text-decoration: none;
+    background-color: #133aac;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+    display: block;
+}
+.kofti-text{
+    font-size: 24px;
+}
+article{
+    text-align: center;
+    margin: 20px;
+    border: 5px solid red;
+}
+body{
+    font-family: sans-serif;
+    background-color: azure;
+}
+footer p {
+    font-size: 24px;
+}
+.kofti:hover{
+    border: 10px solid navy;
+    transition: 0.5s ease-out;
+    padding: 50px;
+}
+.footer{
+    text-align: center;
+}
