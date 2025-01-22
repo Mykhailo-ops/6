@@ -61,3 +61,32 @@ footer p {
 .footer{
     text-align: center;
 }
+
+
+aside{
+    background-color: lightblue;
+    padding: 10px;
+}
+aside p{
+    font-size: 30px;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+}
+
+
+
+aside img{
+    justify-content: space-between;
+}
+.aside{
+    padding: 30px;
+    height:150px;
+    display: flex;
+    width: 150px;
+    justify-content: space-between;
+}
+.rand{
+    font-size: 40px;
+    background-color: blue;
+}
