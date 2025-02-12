@@ -93,8 +93,9 @@ aside img{
     text-align: center;
 }
 .del{
-    width: 900px;
+    width: 1200px;
     margin-bottom: 30px;
+    
 }
 main h1{
     text-align: center;
@@ -103,3 +104,7 @@ main h1{
 .delp{
     font-size: 30px;
 }
+ul{
+    font-size: 25px;
+}
+
